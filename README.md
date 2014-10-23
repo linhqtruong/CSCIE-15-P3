@@ -14,5 +14,6 @@ No login require
     the 
 
 outside code
+
         1) The package "badcow/lorem-ipsum" was used to generate ipsum lorem paragraphs.
-        2)
+        2) The package "ircmaxell / password-compat" was used to generate password hashing algorithm
