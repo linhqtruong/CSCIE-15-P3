@@ -7,7 +7,7 @@ Description
 
 Demo
 
-    http://smartknowledgebase.com/Demo-Linh_Truong_-_CSCIE-P3.swf
+        http://smartknowledgebase.com/Demo-Linh_Truong_-_CSCIE-P3.swf
 
 Details for TA team
 
