@@ -7,11 +7,12 @@ Description
 
 Demo
 
-    http://p2.smartknowledgebase.com/Demo-Linh_Truong_-_CSCIE-P2.swf
+    Comming soon : http://p3.smartknowledgebase.com/Demo-Linh_Truong_-_CSCIE-P3.swf
 
-No login require
+Details for TA team
 
-    the 
+        Be easy on me
+        No login request
 
 outside code
 
