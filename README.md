@@ -9,11 +9,6 @@ Demo
 
         http://smartknowledgebase.com/Demo-Linh_Truong_-_CSCIE-P3.swf
 
-Details for TA team
-
-        Be easy on me
-        No login request
-
 outside code
 
         1) The package "badcow/lorem-ipsum" was used to generate ipsum lorem paragraphs.
